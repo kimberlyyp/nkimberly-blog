@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Not 1, Not 2, But 3 Ironies in Oedipus Rex"
+date: 2011-08-20 21:05:33 +0000
+categories: ['English Literature']
+---
+
+**Verbal, Situational, and Dramatic Irony - Oedipus Rex**
+In Oedipus Rex by Sophocles, Oedipus the king is realized to be Laios's killer, so unknowingly Oedipus had been condemning himself throughout much of the play.  Irony, the element prevalent through the play, is appropriate due to the nature of the morals that Sophocles wants to convey.  Sophocles uses three types of irony in Oedipus Rex.
+
+Verbal Irony is sarcasm, when one character means to say one thing, but is interpreted by another character as something else.  In the initial conversation between Teiresias and Oedipus, Teiresias refuses to Oedipus what he knows because it would harm him.  Oedipus, ignorant as he is presses Teiresias.  Under this pressure, Teiresias says, “You are all ignorant. I will not reveal the troubling things inside me, which I can call your grief as well.”  To this, Oedipus responds, “What are you saying? Do you know and will not say? Do you intend to betray me and destroy the city?”  Here Oedipus is misunderstanding Teiresias’s “which I can call your grief as well.”  What Teiresias means is that this news would be Oedipus’s grief as well because it would reveal that Oedipus had killed Laois.  This is Verbal Irony because Oedipus doesn’t realize this.  He interprets “grief” as an impending doom that is about to happen that Teiresias refuses to warn him about.  This discrepancy in understanding is Sophocles’s use of Verbal Irony.
+Situational Irony is the occurrence of something not expected, usually associated with a pessimistic or fatalistic view.  Sophocles makes perfect use of this in his character of Oedipus.  Just about everything Oedipus expected to avoid, he stumbled upon.  By running from his “parents” to prevent the oracle’s prediction, he ended up actually running toward his real parents.  Another example would be when Oedipus accuses just about everyone else of killing Laios, when, as it turns out, he was the murderer.
+Dramatic Irony occurs when the audience knows something that the character does not.  Because of the introduction, the audience of Oedipus Rex knows that Oedipus is the one that kills Laios.  Oedipus, himself, however, is not aware of this, and continues condemning everyone else.  Dramatic irony is applied when Oedipus finally realizes that he is the killer, a fact that the audience had known all along.
+Verbal, Situational, and Dramatic Irony were all used by Sophocles to create the Oedipus Rex story we know today.  Irony was used in this story to both amuse the audience and demonstrate that fate is stronger than human ambitions.  In a way, the ironies found in Oedipus motivate us readers or listeners to humble ourselves, for we never know when we might be wrong.  Sophocles uses Irony to say, “Never be too sure of yourself.”

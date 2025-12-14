@@ -1,11 +1,12 @@
 title: nkimberly
 description: Converted from WordPress
-baseurl: ""
-url: ""
+baseurl: "/nkimberly-blog"
+url: "https://kimberlyyp.github.io"
 
 # Build settings
 markdown: kramdown
 theme: minima
+permalink: /:categories/:year/:month/:day/:title.html
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
